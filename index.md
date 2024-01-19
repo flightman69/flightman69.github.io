@@ -9,7 +9,7 @@ I'm simply a lost guy, now with a lot of depression and hoping to make my life b
 I had 4 things in my todo list. but wasn't able to acheive neithe of them.
 
 # Posts
-[consistentcy](posts/consistentcy.md)
+[consistentcy](posts/consistency.md)
 
 
 
