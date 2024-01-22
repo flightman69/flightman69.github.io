@@ -20,5 +20,5 @@ Life has gone scary lately, nothing feels tastefull or enjoyable. I really need 
 struggling hard but atleast I should know how I feel. This cold is fucking me, maybe this is the time to rest
 but I'm not that rich enough to rest 3 months of the year(I want to be though). I better go study now. I think this is a quality post I will give it 2/10. Yeah the previous one deserves 0/10.
 
-
-
+## Previous Topic
+[Am I Zero or One](./ami0or1.md)
