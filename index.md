@@ -7,5 +7,6 @@ I'm simply a lost guy, now with a lot of depression and hoping to make my life b
 Well I thought I need some consistency in my life, so I thought posting/making content everyday will get me some discipline. That's why. This page will see a lot of change soon.
 
 # Posts
-- ### _[consistentcy](posts/consistency.md)_
+- ### _[Consistentcy](posts/consistency.md)_
 - ### _[Am I ZERO or ONE ?](posts/ami0or1.md)_
+- ### _[Scared Of Future](posts/scaredOfFuture.md)_
