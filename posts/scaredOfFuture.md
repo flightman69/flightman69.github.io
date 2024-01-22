@@ -1,6 +1,6 @@
 # **Scared about future**
 
-    As we all know there's been massive layoffs through out the tech industry and on the other side, the
+As we all know there's been massive layoffs through out the tech industry and on the other side, the
 increasing threat of AI. AI are so good now, at this point I feel like I can never match up with a AI.
 The AI's are soo damn good, I need some jesus to come down and give me some powers to fight AI.
 I slowly think I'm slowly improving and going correct on the track I wanted to be. I'm still not acheiving 
