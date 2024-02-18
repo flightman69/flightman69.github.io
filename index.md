@@ -1,5 +1,6 @@
 # flightman69
 
+## _[lpu wifi id/passwd list](others/lpu_wifi_id_pass_list.md)_
 ***
 ## $whoami
 I'm simply a lost guy, now with a lot of depression and hoping to make my life better by doing things consistently. So this will be a documentry of my life. 
