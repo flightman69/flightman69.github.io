@@ -1,4 +1,4 @@
-# flightman69
+# [flightman69](github.com/flightman69)
 
 ## _[lpu wifi id/passwd list](others/lpu_wifi_id_pass_list.md)_
 ***
