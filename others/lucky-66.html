@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interest Calculation</title>
+  <script>
+    function calculate() {
+      let p = parseFloat(document.getElementById("amount").value);
+      let d = parseInt(document.getElementById("days").value);
+      let dr = parseInt(document.getElementById("divide").value);
+
+      let result = document.getElementById("result");
+      result.innerHTML = ""; // Clear previous results
+
+      for (let i = 0; i < d; i++) {
+        let g = parseFloat((p / dr).toFixed(2));
+        p += g;
+
+        g = parseFloat((p / dr).toFixed(2));
+        p += g;
+
+        g = p * 0.02;
+        p += g;
+
+        g = parseFloat((p / dr).toFixed(2));
+        p += g;
+
+        result.innerHTML += "Day " + (i + 1) + ": " + p.toFixed(2) + "<br>";
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <h2>Lucky 66 Calculation</h2>
+  <label for="amount">Amount:</label>
+  <input type="text" id="amount"><br><br>
+
+  <label for="days">Days:</label>
+  <input type="text" id="days"><br><br>
+
+  <label for="divide">Enter divide number:</label>
+  <input type="text" id="divide"><br><br>
+
+  <button onclick="calculate()">Calculate</button><br><br>
+
+  <div id="result"></div>
+</body>
+
+</html>
