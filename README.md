@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 🌟
 
-![Header Image](https://flightman69.github.io/assets/banner.jpg)
+![Header Image](https://flightman69.github.io/assets/banner.gif)
 
 Hey there! I'm thrilled to have you here. This is my personal portfolio hosted at [flightman69.github.io](https://flightman69.github.io), where I showcase my passion for **low-level programming**, **Linux**, and more. Here's a bit about me and my work.
 
@@ -73,7 +73,7 @@ I’m inspired by the world of **Mr. Robot** and aim to embody the same ethos of
 
 ---
 
-![Footer Image](https://flightman69.github.io/assets/footer.jpg)
+![Footer Image](https://flightman69.github.io/assets/footer.gif)
 
 > "Control is an illusion. But I'm still gonna code like I have it."
 
