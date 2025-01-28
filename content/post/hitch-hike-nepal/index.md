@@ -1,6 +1,6 @@
 ---
 title: Hitchhike to Nepal
-date: 2023-10-15
+date: 2025-01-10
 description: An adventurous journey of Sanjai, Fadhil, and Hafeeem hitchhiking from Phagwara to Kushma, Nepal, for the ultimate bungee jumping experience. A budget trip filled with unforgettable memories, kind strangers, and a few hilarious misadventures.
 tags:
     - adventure
@@ -12,6 +12,7 @@ categories:
     - travel
     - adventure
 hidden: false
+weight: 1
 image: img/cover.jpg
 ---
 
